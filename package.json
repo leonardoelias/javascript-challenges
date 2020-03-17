@@ -1,0 +1,12 @@
+{
+  "name": "javascript-challenges",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/leonardoelias/javascript-challenges.git",
+  "author": "Leonardo Elias <leonardo.elias4@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "sinon": "^9.0.1",
+    "tape": "^4.13.2"
+  }
+}
