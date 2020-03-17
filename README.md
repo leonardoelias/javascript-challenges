@@ -6,5 +6,5 @@ A collection of JavaScript coding challenges.
 
 ### Beginner
 
-* [Babylonian square root method](/functiobabylonian-method/)
-* [Number frequency](/number-frequency/)
+* [Babylonian square root method](/functions/babylonian-method/)
+* [Number frequency](/functions/number-frequency/)
